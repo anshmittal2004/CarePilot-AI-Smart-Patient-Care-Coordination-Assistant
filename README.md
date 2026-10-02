@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 **CarePilot AI**
+# 🩺 **HealthCareAI**
 
 ### 🚀 Intelligent & Secure Healthcare Coordination Assistant
 
@@ -24,11 +24,11 @@
 
 </div>
 
-> 💡 **CarePilot AI** is a policy-grounded healthcare coordination platform combining **Generative AI, RAG, privacy protection, safety escalation, auditability, and role-based workflows** to support safer care navigation.
+> 💡 **HealthCareAI** is a policy-grounded healthcare coordination platform combining **Generative AI, RAG, privacy protection, safety escalation, auditability, and role-based workflows** to support safer care navigation.
 
 ---
 
-CarePilot AI is a **Java 21 + Spring Boot + Spring AI** healthcare
+HealthCareAI is a **Java 21 + Spring Boot + Spring AI** healthcare
 coordination assistant designed around policy-grounded responses,
 retrieval-augmented generation (RAG), privacy-aware processing, safety
 escalation, conversation history, audit traceability, and knowledge-base
