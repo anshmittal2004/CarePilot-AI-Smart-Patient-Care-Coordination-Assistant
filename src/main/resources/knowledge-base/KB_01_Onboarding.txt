@@ -1,0 +1,8 @@
+# Patient Onboarding
+Patients can use the approved onboarding flow to verify identity, review consent, and access care-navigation services. If the required information is not available in the approved knowledge base, the assistant must not invent a policy.
+
+# Appointments
+Appointment scheduling, rescheduling, reminders, telehealth preparation, and visit preparation should follow the approved healthcare coordination workflow.
+
+# Safety
+The assistant provides informational navigation only. It does not diagnose, prescribe, or make clinical treatment decisions. Emergency or clinically sensitive questions should be escalated to an appropriate licensed healthcare professional.
