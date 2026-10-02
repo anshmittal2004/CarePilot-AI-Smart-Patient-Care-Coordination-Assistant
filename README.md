@@ -528,23 +528,41 @@ docs/
 Then add them to this section using:
 
 ```markdown
+## 📸 Application Screenshots
+
+### 🎭 Role Selection
+
 ![Role Selection](docs/screenshots/01-role-selection.png.jpeg)
+
+### 🌐 Multilingual Experience
 
 ![Hindi Role Selection](docs/screenshots/02-role-selection-hindi.png.jpeg)
 
 ![Chinese Role Selection](docs/screenshots/03-role-selection-chinese.png.jpeg)
 
+### 👤 Patient Experience
+
 ![Patient Chat](docs/screenshots/04-patient-chat.png.jpeg)
+
+### 🩺 Coordinator Experience
 
 ![Coordinator Chat](docs/screenshots/05-coordinator-chat.png.jpeg)
 
+### 🛡️ Admin Experience
+
 ![Admin Chat](docs/screenshots/06-admin-chat.png.jpeg)
 
+### 📊 Dashboard
+
 ![Dashboard](docs/screenshots/07-dashboard.png.jpeg)
+
+### 🔎 Audit & Traceability
 
 ![Audit Trail](docs/screenshots/08-audit-trail.png.jpeg)
 
 ![Audit Record](docs/screenshots/09-audit-record.png.jpeg)
+
+### 📚 Knowledge Base
 
 ![Knowledge Base](docs/screenshots/10-knowledge-base.png.jpeg)
 ```
