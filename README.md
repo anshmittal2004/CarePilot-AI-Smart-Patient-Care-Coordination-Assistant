@@ -528,17 +528,25 @@ docs/
 Then add them to this section using:
 
 ```markdown
-![Role Selection](docs/screenshots/01-role-selection.png)
+![Role Selection](docs/screenshots/01-role-selection.png.jpeg)
 
-![Patient Chat](docs/screenshots/04-patient-chat.png)
+![Hindi Role Selection](docs/screenshots/02-role-selection-hindi.png.jpeg)
 
-![Coordinator Chat](docs/screenshots/05-coordinator-chat.png)
+![Chinese Role Selection](docs/screenshots/03-role-selection-chinese.png.jpeg)
 
-![Admin Dashboard](docs/screenshots/07-dashboard.png)
+![Patient Chat](docs/screenshots/04-patient-chat.png.jpeg)
 
-![Audit Trail](docs/screenshots/08-audit-trail.png)
+![Coordinator Chat](docs/screenshots/05-coordinator-chat.png.jpeg)
 
-![Knowledge Base](docs/screenshots/10-knowledge-base.png)
+![Admin Chat](docs/screenshots/06-admin-chat.png.jpeg)
+
+![Dashboard](docs/screenshots/07-dashboard.png.jpeg)
+
+![Audit Trail](docs/screenshots/08-audit-trail.png.jpeg)
+
+![Audit Record](docs/screenshots/09-audit-record.png.jpeg)
+
+![Knowledge Base](docs/screenshots/10-knowledge-base.png.jpeg)
 ```
 
 ---
