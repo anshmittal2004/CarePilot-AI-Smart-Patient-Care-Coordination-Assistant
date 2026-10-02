@@ -527,7 +527,6 @@ docs/
 
 Then add them to this section using:
 
-```markdown
 ## 📸 Application Screenshots
 
 ### 🎭 Role Selection
@@ -565,7 +564,6 @@ Then add them to this section using:
 ### 📚 Knowledge Base
 
 ![Knowledge Base](docs/screenshots/10-knowledge-base.png.jpeg)
-```
 
 ---
 
